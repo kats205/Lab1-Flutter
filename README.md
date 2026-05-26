@@ -5,6 +5,7 @@ A Flutter mobile application featuring a modern UI design and Firebase authentic
 ## Features
 
 - Firebase Authentication (Email/Password and Google Sign-In).
+  - Note: Google Sign-In is currently not working on the Web platform.
 - State Management using BLoC pattern.
 - Clean Architecture principles (Core, Features, Data, Domain, Presentation).
 - Native Compile-Time Environment Configurations.
