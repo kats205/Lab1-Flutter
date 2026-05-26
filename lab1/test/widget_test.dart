@@ -8,7 +8,7 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
-import 'package:lab1/apps/jobspot_app.dart';
+import 'package:lab1/core/app/jobspot_app.dart';
 
 void main() {
   testWidgets('Jobspot app opens on splash screen', (
